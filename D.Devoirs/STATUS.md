@@ -17,7 +17,7 @@
 |300104541   | [R.](https://github.com/Romeomian)              |X| | | |
 |300112687   | [J.](https://github.com/jthn9022)               | | | | |
 |300111671   | [A.](https://github.com/AbbasSadissou)          | | | | |
-|300111766   | C.                                              | | | | |
+|300111766   | [C.](https://github.com/cheikhthiam)            | | | | |
 |300113127   | [V.](https://github.com/Futureseven)            |X| | | |
 
 
