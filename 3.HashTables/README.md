@@ -51,4 +51,6 @@ Suivre les instructions proposees et essayez de re-partager le travail :five:
 $ git pull
 ```
 
-## :b: Operations `git bash`
+## :b: Programme Electoral
+
+
