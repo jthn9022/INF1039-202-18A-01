@@ -9,13 +9,13 @@
 |300107361| [E.](https://github.com/toch90)                 | | | | |
 |300108234| [H.](https://github.com/halimabzn)              | | | | |
 |300110500| [D.](https://github.com/didier300110500)        | | | | |
-|300110529| [Dk.](https://github.com/TEC24)                 |:black_small_square:|:white_small_square:| | |
+|300110529| [Dk.](https://github.com/TEC24)                 | |:no_entry:| | |
 |300111024| [I.](https://github.com/ibrahimahkanoute)       | | | | |
 |300111671| [A.](https://github.com/AbbasSadissou)          | | | | |
 |300111766| [C.](https://github.com/cheikhthiam)            | | | | |
 |300112017| [O.](https://github.com/ordenrosae)             | | | | |
 |300112056| [Dane](https://github.com/danekayi)             | | | | |
-|300112687| [J.](https://github.com/jthn9022)               |:white_small_square:|:white_small_square:| | |
+|300112687| [J.](https://github.com/jthn9022)               |:no_entry:|:no_entry:| | |
 |300112917| [Dj.](https://github.com/djumaster)             | | | | |
 |300113127| [V.](https://github.com/Futureseven)            | | | | |
 |300113775| [W.](https://github.com/widby)                  | | | | |
