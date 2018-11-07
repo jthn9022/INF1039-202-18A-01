@@ -63,3 +63,9 @@ Le charactère `~` doit avoir disparu du nom du répertoire
 * Tester le programme avec :
 
 https://ide.geeksforgeeks.org/
+
+## :c: Challenge - Chercher sur Google un programme en Python utilisant la récursion
+
+* Créer un fichier RECURSION.md
+
+* Ecrire le programme de récursion
