@@ -5,12 +5,13 @@ Introduction aux algorithmes
 
 | Date   |                     |     Commentaires                                                                         |
 |:------:|:--------------------|:-----------------------------------------------------------------------------------------|
-|07-09-18| ...                 | Début des cours (Introduction au programme)                                              |
-|14-09-18| ...                 | Film Algorithmes sur Netflix      (tiers de la classe présente)                          |
-|21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
-|28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
-|05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
+|09-11-18| Chapitre 5          | [HashTables](5.HashTables), suivre les instructions                                      |
 |02-11-18| Chapitre 4          | [QuickSort](2.QuickSort), écrire le code source page 65                                  |
+|05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
+|28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
+|21-09-18| Chapitre 1          | Terminer de lire le chapitre                                                             |
+|14-09-18| ...                 | Film Algorithmes sur Netflix      (tiers de la classe présente)                          |
+|07-09-18| ...                 | Début des cours (Introduction au programme)                                              |
 
 ## Elements de Performance
 
