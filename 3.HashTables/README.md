@@ -1,6 +1,6 @@
 # HashTables
 
-## :a: Operation `git bash`
+## :a: Operations `git bash`
 
 * :one: Changer de répertoire vers celui du cours
 
@@ -50,3 +50,5 @@ Suivre les instructions proposees et essayez de re-partager le travail :five:
 ```
 $ git pull
 ```
+
+## :b: Operations `git bash`
