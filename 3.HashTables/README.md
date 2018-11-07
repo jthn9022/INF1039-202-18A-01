@@ -68,6 +68,6 @@ https://ide.geeksforgeeks.org/
 
 ### Chercher sur Google un programme en Python utilisant la récursion
 
-* Créer un fichier RECURSION.md
+* Créer un fichier `RECURSION.md`
 
 * Ecrire le programme de récursion
