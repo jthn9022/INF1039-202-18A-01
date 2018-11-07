@@ -1,6 +1,6 @@
 # HashTables
 
-## Dans `git bash`
+## :a: Operation `git bash`
 
 * :one: Changer de répertoire vers celui du cours
 
