@@ -1,6 +1,6 @@
 
 
-|  ID     | Prenom                                          |1|2|3|4|
+|  ID     | Pseudo                                          |1|2|3|4|
 |---------|-------------------------------------------------|-|-|-|-|
 |300104524| [E.](https://github.com/Echnaideurgeneus)       | | | | |
 |300104541| [R.](https://github.com/Romeomian)              | | | | |
@@ -14,7 +14,7 @@
 |300111671| [A.](https://github.com/AbbasSadissou)          | | | | |
 |300111766| [C.](https://github.com/cheikhthiam)            | | | | |
 |300112017| [O.](https://github.com/ordenrosae)             | | | | |
-|300112056| [Dane](https://github.com/danekayi)             | | | | |
+|300112056| [Dy.](https://github.com/danekayi)              | | | | |
 |300112687| [J.](https://github.com/jthn9022)               |:x:|:x:| | |
 |300112917| [Dj.](https://github.com/djumaster)             | | | | |
 |300113127| [V.](https://github.com/Futureseven)            | | | | |
