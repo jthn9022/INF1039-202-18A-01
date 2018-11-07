@@ -51,7 +51,7 @@ Suivre les instructions proposees et essayez de re-partager le travail :five:
 $ git pull
 ```
 
-* :six: Vérifier son travail sur github.com
+* :six: Vérifier son travail sur [3.HashTables](../3.HashTables)
 
 Le charactère `~` doit avoir disparu du nom du répertoire
 
