@@ -15,5 +15,10 @@ Example:
 $ git mv 300098957~ 300098957
 ```
 
+Vérifier le status
+
+```
+$ git status
+```
 
 ![alt text](./images/git-status.png)
