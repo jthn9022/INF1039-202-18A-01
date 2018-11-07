@@ -8,7 +8,7 @@
 $ cd ~/Developer/INF1039-202-18A-01
 ```
 
-:white_check_mark: S'assurer que on a toutes les modifications du serveur github
+  :white_check_mark: S'assurer que on a toutes les modifications du serveur github
 
 ```
 $ git pull
