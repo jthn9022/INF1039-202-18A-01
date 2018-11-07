@@ -5,7 +5,7 @@ Introduction aux algorithmes
 
 | Date   |                     |     Commentaires                                                                         |
 |:------:|:--------------------|:-----------------------------------------------------------------------------------------|
-|09-11-18| Chapitre 5          | [HashTables](5.HashTables), suivre les instructions                                      |
+|09-11-18| Chapitre 5          | [HashTables](3.HashTables), suivre les instructions                                      |
 |02-11-18| Chapitre 4          | [QuickSort](2.QuickSort), écrire le code source page 65                                  |
 |05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
 |28-09-18| Code et github      | Creer un compte github, ecrire le code source page 35                                    |
