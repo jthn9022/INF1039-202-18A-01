@@ -1,6 +1,6 @@
 
 
-|  ID     | Prenom                                          |1|2|3|4|
+|  ID     | Pseudo                                          |1|2|3|4|
 |---------|-------------------------------------------------|-|-|-|-|
 |300104524| [E.](https://github.com/Echnaideurgeneus)       | | | | |
 |300104541| [R.](https://github.com/Romeomian)              | | | | |
