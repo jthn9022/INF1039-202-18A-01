@@ -3,6 +3,14 @@
 
 Dans `git bash`
 
-> $ cd ~/Developer/INF1039-202-18A-01
+```
+$ cd ~/Developer/INF1039-202-18A-01
+```
 
->  $ git mv :id:~ :id:
+* Renommer son répertoire (i.e. son :id:) en enlevant le charactere `~`
+
+Example:
+
+```
+$ git mv 300098957~ 300098957
+```
