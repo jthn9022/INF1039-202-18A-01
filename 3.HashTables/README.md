@@ -38,6 +38,6 @@ $ git commit --message "Changement du nom de repertoire"
 $ git push
 ```
 
-:stop: En cas de rejet
+:x: En cas de rejet
 
 ![alt text](./images/git-reject.png)
