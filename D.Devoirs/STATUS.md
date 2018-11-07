@@ -9,7 +9,7 @@
 |300107361| [E.](https://github.com/toch90)                 | | | | |
 |300108234| [H.](https://github.com/halimabzn)              | | | | |
 |300110500| [D.](https://github.com/didier300110500)        | | | | |
-|300110529| [Dk.](https://github.com/TEC24)                 | |:white_small_square:| | |
+|300110529| [Dk.](https://github.com/TEC24)                 |:black_small_square:|:white_small_square:| | |
 |300111024| [I.](https://github.com/ibrahimahkanoute)       | | | | |
 |300111671| [A.](https://github.com/AbbasSadissou)          | | | | |
 |300111766| [C.](https://github.com/cheikhthiam)            | | | | |
