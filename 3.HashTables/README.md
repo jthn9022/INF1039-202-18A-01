@@ -54,3 +54,8 @@ $ git pull
 ## :b: Programme Electoral
 
 
+* Écrire le programme `check_voter` du chapitre 5 `Hash tables` page `82` et le déposer dans son propre répertoire
+
+* Tester le programme avec :
+
+https://ide.geeksforgeeks.org/
