@@ -1,16 +1,15 @@
 # HashTables
 
 
-Dans `git bash`
+## Dans `git bash`
 
-
-* Changer de répertoire vers celui du cours
+* :one: Changer de répertoire vers celui du cours
 
 ```
 $ cd ~/Developer/INF1039-202-18A-01
 ```
 
-* Renommer son répertoire (i.e. son :id:) en enlevant le charactere `~`
+* :two: Renommer son répertoire (i.e. son :id:) en enlevant le charactere `~`
 
 Example:
 
@@ -18,7 +17,7 @@ Example:
 $ git mv 300098957~ 300098957
 ```
 
-* Vérifier le status (tout doit etre vert)
+* :three: Vérifier le status (tout doit etre vert)
 
 ```
 $ git status
@@ -26,13 +25,13 @@ $ git status
 
 ![alt text](./images/git-status.png)
 
-* Valider (commit) la modification souhaitee en y ajoutant un commentaire
+* :four: Valider (commit) la modification souhaitee en y ajoutant un commentaire
 
 ```
 $ git commit --message "Changement du nom de repertoire"
 ```
 
-* Partager mon travail 
+* :five: Partager mon travail 
 
 ```
 $ git push
@@ -41,3 +40,9 @@ $ git push
 :x: En cas de rejet
 
 ![alt text](./images/git-reject.png)
+
+Suivre les instructions proposees et essayez de re-partager le travail :five:
+
+```
+$ git pull
+```
