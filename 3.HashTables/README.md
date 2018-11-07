@@ -1,12 +1,17 @@
 # HashTables
 
-
 ## Dans `git bash`
 
 * :one: Changer de répertoire vers celui du cours
 
 ```
 $ cd ~/Developer/INF1039-202-18A-01
+```
+
+:white_check_mark: S'assurer que on a toutes les modifications du serveur github
+
+```
+$ git pull
 ```
 
 * :two: Renommer son répertoire (i.e. son :id:) en enlevant le charactere `~`
