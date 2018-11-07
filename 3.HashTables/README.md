@@ -51,6 +51,10 @@ Suivre les instructions proposees et essayez de re-partager le travail :five:
 $ git pull
 ```
 
+* :six: Vérifier son travail sur github.com
+
+Le charactère `~` doit avoir disparu du nom du répertoire
+
 ## :b: Programme Electoral
 
 
