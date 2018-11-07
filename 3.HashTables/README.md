@@ -14,3 +14,6 @@ Example:
 ```
 $ git mv 300098957~ 300098957
 ```
+
+
+![alt text](./images/git-status.png)
