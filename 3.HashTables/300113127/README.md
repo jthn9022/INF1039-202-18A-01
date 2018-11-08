@@ -1,4 +1,5 @@
 # :hash: Hash Table 
+```
 def check_voter(name):
   if voted.get(name):
     print ("kick them out")
