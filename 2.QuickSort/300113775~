@@ -1,6 +1,4 @@
-```
-
-git clone 
+``` python 
 > def quicksort(array)
 >   if len(array) < 2:
 >     return array
@@ -13,3 +11,4 @@ git clone
 >     return quicksort(less) + [pivot] + quicksort(greater)
 >
 >  print quicksort([10, 5, 3])
+```
