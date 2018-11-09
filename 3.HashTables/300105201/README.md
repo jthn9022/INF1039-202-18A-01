@@ -1,4 +1,4 @@
-```
+``` python
 voted = {}
 
 def check_voter(name):
