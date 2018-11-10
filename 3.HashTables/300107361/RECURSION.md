@@ -1,4 +1,4 @@
-```
+``` Python
 def factorial(n):
     print("factorial has been called with n = " + str(n))
     if n == 1:
