@@ -8,11 +8,11 @@
 
 ![Alt Tag](./TREE.png)
 
-    Reconstruire l'abre `graph` de la page 106 en fonction des donnees ci-dessus 
+* Ecrire l'abre `graph = {}` de la page 106 en fonction des donnees ci-dessus 
 
 ## :two: Le vendeur
 
-    Remplacer le code source de la page 108 avec celui ci-dessous
+* Remplacer le code source de la page 108 avec celui ci-dessous
 
 ```Python
 def person_is_seller(name):
@@ -21,3 +21,11 @@ def person_is_seller(name):
     else :
         return False
 ```
+
+## :three: La recherche
+
+* Ecrire le source code de la recherche `search(name)`
+
+## Tester le code avec 
+
+https://ide.geeksforgeeks.org/
