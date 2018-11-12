@@ -2,7 +2,7 @@
 
 ## Breadth-First Search
 
-Ce devoir consiste à écrire le code du chapitre 6 en remplacant l'arbre par celui des personnes la classe.
+Ce devoir consiste à écrire le code du chapitre 6 en remplaçant l'arbre par celui des personnes la classe.
 
 ## :zero: Répertoire :page_facing_up:
 
