@@ -2,7 +2,7 @@
 
 ## Breadth-First Search
 
-## :one: L'Arbre 
+## :one: L'Arbre :palm_tree:
 
     --Autheur Widby Armand--
 
