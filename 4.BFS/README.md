@@ -26,6 +26,10 @@ def person_is_seller(name):
 
 * Ecrire le source code de la recherche `search(name)`
 
-## Tester le code avec 
+## :four: Tester le code avec 
 
 https://ide.geeksforgeeks.org/
+
+```Python
+search("Romeo")
+```
