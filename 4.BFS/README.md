@@ -4,7 +4,7 @@
 
 ## :zero: Repertoire
 
-* Creer son propre repertoire avec son ID :id: en ajoutant le fichier README.md
+* Creer son propre repertoire avec son :id: en ajoutant le fichier README.md
 
 * Creer le code source dans le fichier README.md
 
