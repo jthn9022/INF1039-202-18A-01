@@ -14,7 +14,7 @@
 
 ![Alt Tag](./TREE.png)
 
-* Ecrire l'abre `graph = {}` de la page 106 en fonction des donnees ci-dessus 
+* Ecrire l'arbre `graph = {}` de la page 106 en fonction des donnees ci-dessus 
 
 ## :two: Le vendeur
 
