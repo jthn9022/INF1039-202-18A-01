@@ -2,6 +2,12 @@
 
 ## Breadth-First Search
 
+## :zero: Repertoire
+
+* Creer son propre repertoire avec son ID en ajoutant le fichier README.md
+
+* Creer le code source dans le fichier README.md
+
 ## :one: L'Arbre :palm_tree:
 
     --Autheur Widby Armand--
