@@ -5,6 +5,7 @@ Introduction aux algorithmes
 
 | Date   |                     |     Commentaires                                                                         |
 |:------:|:--------------------|:-----------------------------------------------------------------------------------------|
+|16-11-18| Chapitre 6          | [BFS](4.BFS), suivre les instructions                                                    |
 |09-11-18| Chapitre 5          | [HashTables](3.HashTables), suivre les instructions                                      |
 |02-11-18| Chapitre 4          | [QuickSort](2.QuickSort), écrire le code source page 65                                  |
 |05-10-18| Chapitre 2          | Créer compte IntelliJ, Installer WebStorm, écrire le code source page 35                 |
