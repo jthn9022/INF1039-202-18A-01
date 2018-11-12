@@ -16,7 +16,7 @@
 
 * Ecrire l'arbre `graph = {}` de la page 106 en fonction des donnees ci-dessus 
 
-## :two: Le vendeur
+## :two: Le vendeur :sweet_potato:
 
 * Remplacer le code source de la page 108 avec celui ci-dessous
 
