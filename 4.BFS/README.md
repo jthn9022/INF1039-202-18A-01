@@ -30,7 +30,7 @@ def person_is_seller(name):
 
 ## :three: La recherche
 
-* Ecrire le source code de la recherche `search(name)`
+* Ecrire le source code de la recherche `search(name)` de page 107 à 110
 
 ## :four: Tester le code avec 
 
