@@ -32,7 +32,7 @@ def person_is_seller(name):
 
 * Ecrire le source code de la recherche `search(name)` de page 107 à 110
 
-## :four: Tester le code avec 
+## :four: Tester le code Python avec 
 
 https://ide.geeksforgeeks.org/
 
