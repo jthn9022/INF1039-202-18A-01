@@ -28,7 +28,7 @@ def person_is_seller(name):
         return False
 ```
 
-## :three: La recherche
+## :three: La recherche :mag:
 
 * Ecrire le source code de la recherche `search(name)` de page 107 à 110
 
