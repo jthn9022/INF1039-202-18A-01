@@ -2,7 +2,7 @@
 
 ## Breadth-First Search
 
-## :zero: Repertoire :page_facing_up:
+## :zero: Répertoire :page_facing_up:
 
 * Creer son propre repertoire avec son :id: en ajoutant le fichier `README.md`
 
