@@ -1,4 +1,4 @@
-
+## Statut
 
 |  :id:     | Pseudo                                          |:one:|:two:|:three:|:four:|
 |---------|-------------------------------------------------|-|-|-|-|
@@ -21,6 +21,7 @@
 |300113775| [W.](https://github.com/widby)                  | | | | |
 
 
+## Legende
 
 :one: - Ne participe au github du Collége car n'ayant pas accepté l'invitation 
 
