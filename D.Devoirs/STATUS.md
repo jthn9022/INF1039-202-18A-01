@@ -1,6 +1,6 @@
 
 
-|  ID     | Pseudo                                          |1|2|3|4|
+|  :id:     | Pseudo                                          |:one:|:two:|:three:|:four:|
 |---------|-------------------------------------------------|-|-|-|-|
 |300104524| [E.](https://github.com/Echnaideurgeneus)       | | | | |
 |300104541| [R.](https://github.com/Romeomian)              | | | | |
@@ -22,8 +22,11 @@
 
 
 
-1 - Ne participe au github du Collége car n'ayant pas accepté l'invitation 
-2 - Devoir QuickSort non rendu
-3 - [Devoir git manuel](https://github.com/CollegeBoreal/INF1039-202-18A-01/tree/master/0.Git/manual)
-4 - (future usage)
+:one: - Ne participe au github du Collége car n'ayant pas accepté l'invitation 
+
+:two: - Devoir QuickSort non rendu
+
+:three: - [Devoir git manuel](https://github.com/CollegeBoreal/INF1039-202-18A-01/tree/master/0.Git/manual)
+
+:four: - (future usage)
 
