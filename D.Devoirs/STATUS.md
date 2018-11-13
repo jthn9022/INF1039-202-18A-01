@@ -27,7 +27,7 @@
 
 :two: - Devoir QuickSort non rendu
 
-:three: - [Devoir git manuel](https://github.com/CollegeBoreal/INF1039-202-18A-01/tree/master/0.Git/manual)
+:three: - [Devoir git manuel non execute](https://github.com/CollegeBoreal/INF1039-202-18A-01/tree/master/0.Git/manual)
 
 :four: - (future usage)
 
