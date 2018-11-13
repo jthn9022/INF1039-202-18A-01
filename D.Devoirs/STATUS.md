@@ -25,7 +25,7 @@
 ```
 1 - Ne participe au github du Collége car n'ayant pas accepté l'invitation 
 2 - Devoir QuickSort non rendu
-3 - 
+3 - [Devoir git manuel](../../0.Git/manual)
 4 - (future usage)
 ```
 
