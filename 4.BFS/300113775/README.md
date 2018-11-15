@@ -29,5 +29,4 @@ while search_queue:
         print person + " is a mango seller!"
     else:
         search_queue += graph[person]
-        print False
-        ```
+        print False```
